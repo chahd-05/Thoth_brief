@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Register</title>
-    <link rel="stylesheet" href="/thoth_brief/public/css/style.css">
+    <link rel="stylesheet" href="/thoth_brief/css/style.css">
 </head>
 <body>
     <h2>Register</h2>

@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="/thoth_brief/public/css/style.css">
+<link rel="stylesheet" href="/thoth_brief/css/style.css">
 
 <h2>Welcome <?= htmlspecialchars($student['name']) ?></h2>
 
